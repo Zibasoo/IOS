@@ -1,0 +1,52 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-statusbar": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-statusbar@2.2.3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-extension": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-extension"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-urlhandler": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-urlhandler"
+    },
+    "is_top_level": true,
+    "variables": {
+      "URL_SCHEME": "zibasoo"
+    }
+  },
+  "cordova-plugin-network-information": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-network-information"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-cache-clear": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-cache-clear"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
